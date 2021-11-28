@@ -21,7 +21,7 @@ const SearchBar=()=>{
                 />
             </div>
             <div className="searchbar-btn">
-                <button className="serachbar-btn" onClick={onClick}>Buscar</button>
+                <button  onClick={onClick}><i className="fas fa-search"></i></button>
             </div>
         </div>
     )
