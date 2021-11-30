@@ -67,3 +67,15 @@ code {
 .searchbar-btn button i{
   font-size: 20px;
 }
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+.grid-pokemon{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 10px;
+}
