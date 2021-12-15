@@ -1,4 +1,4 @@
 # Pokemon
 This project contains pokemon cards
 
-© Adxell Arango
+© 2021 Adxell Arango
